@@ -18,3 +18,4 @@ While I generally contribute to private repos on and off GitHub for professional
   - [Azure Diagnostic Monitoring](https://github.com/lestermarch/terraform-azurerm-diagnostic-monitoring)
 
 - Azure Tutorials
+  - [Event-Driven Autoscaling (KEDA) with Azure Kubernetes Service (AKS)](https://github.com/lestermarch/demo-aks-keda)
