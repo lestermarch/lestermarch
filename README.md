@@ -6,6 +6,13 @@ I have hands-on experience across the breadth of the Azure platform, from networ
 
 While I generally contribute to private repos on and off GitHub for professional projects, I also aim to publish public repos for tutorial or example purposes. I believe the best way to understand a technology is to build something with it. Some notable repos are listed below. All content is representative of my own personal opinion.
 
+### Demo Repos
+
+1. [Keda on Azure Kubernetes Service](https://github.com/lestermarch/demo-aks-keda) | [Session Recording](https://www.youtube.com/watch?v=2fhhBBiDoz0)
+2. [Kubernetes Ingress to Gateway AI Agentic Conversion](https://github.com/lestermarch/demo-k8s-ingress-to-gateway-api-agentic-conversion)
+3. [Migrate from NGINX Ingress to Azure Application Gateway for Containers](https://github.com/lestermarch/demo-aks-nginx-to-agc-migration)
+4. [IP Address Management with Azure Virtual Network Manager](https://github.com/lestermarch/demo-avnm-ipam)
+
 ### Connect
 
 - <a href="https://www.linkedin.com/in/lestermarch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lestermarch" height="20" width="20"/></a>
